@@ -1,5 +1,5 @@
 {
-  "name": "vue-flatpickr-component",
+  "name": "@fatihbasar/vue-flatpickr-component",
   "version": "8.1.6",
   "description": "Vue.js component for Flatpickr date-time picker",
   "main": "dist/vue-flatpickr.js",
@@ -35,7 +35,7 @@
     "prepublishOnly": "yarn run test && yarn run build"
   },
   "dependencies": {
-    "flatpickr": "^4.6.6"
+    "@fatihbasar/flatpickr": "^4.6.6"
   },
   "devDependencies": {
     "@babel/core": "^7.11.4",

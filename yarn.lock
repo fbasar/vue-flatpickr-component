@@ -862,6 +862,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@fatihbasar/flatpickr@^4.6.6":
+  version "4.6.6"
+  resolved "https://registry.yarnpkg.com/@fatihbasar/flatpickr/-/flatpickr-4.6.6.tgz#5ae10002ada641a9972a28a5a498e7f5030b4b32"
+  integrity sha512-/bFpWIEj7hb86YL2qVgBnCG3hZBNg1iVmcy8QDmiWk6WGmyXuR0Y4lBHFcpUaptWeFZuvTwl4Ta6aHeHupfCoA==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
@@ -3313,11 +3318,6 @@ findup-sync@^3.0.0:
     is-glob "^4.0.0"
     micromatch "^3.0.4"
     resolve-dir "^1.0.1"
-
-flatpickr@^4.6.6:
-  version "4.6.6"
-  resolved "https://registry.yarnpkg.com/flatpickr/-/flatpickr-4.6.6.tgz#34d2ad80adfa34254e62583a34264d472f1038d6"
-  integrity sha512-EZ48CJMttMg3maMhJoX+GvTuuEhX/RbA1YeuI19attP3pwBdbYy6+yqAEVm0o0hSBFYBiLbVxscLW6gJXq6H3A==
 
 flush-write-stream@^1.0.0:
   version "1.1.1"
